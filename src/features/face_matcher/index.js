@@ -29,7 +29,7 @@ export default function FaceMatcher() {
 
   const setFaceMatcher = async () => {
     labeledFaceDescriptors = await loadLabelledDiscriptors();
-    faceMatcher = new faceapi.FaceMatcher(labeledFaceDescriptors, 0.45);
+    faceMatcher = new faceapi.FaceMatcher(labeledFaceDescriptors, 0.5);
     console.log("Face matcher loaded");
     setDSF(true);
   };

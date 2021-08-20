@@ -124,7 +124,7 @@ const FaceMatcherWrapper = styled.div`
       top: 0;
       left: 50%;
       transform: translate(-50%, 0);
-      width: 60%;
+      width: 90%;
     }
   }
 `;
