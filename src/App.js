@@ -35,6 +35,11 @@ const HomeComponent = () => {
           <li>Prabhat Neupane</li>
           <li>Amisha Dahal</li>
         </ul>
+        <br /> <br /> <br />
+        <h1>Project Supervisor</h1>
+        <ul>
+          <li>Santosh Khanal</li>
+        </ul>
       </div>
     </AppWrapper>
   );
