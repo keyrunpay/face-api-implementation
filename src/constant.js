@@ -1,5 +1,5 @@
 const constant = {
-  BASE_URL: "http://localhost:7000",
+  BASE_URL: "https://api.buggged.com/ai_face",
 };
 
 export default constant;
